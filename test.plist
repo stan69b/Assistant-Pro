@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.stanBono.Professional-Assistant</string>
+				<string>com.kauderer.Professional-Assistant</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
